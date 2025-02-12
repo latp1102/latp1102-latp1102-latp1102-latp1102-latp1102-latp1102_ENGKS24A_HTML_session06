@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a{
+    background-color: black;
+    padding: 12px;
+    color: aliceblue;
+    width: 100%;
+}
+
+.logo{
+    text-align: left;
+}
+
+.menu{
+    text-align: right;
+}
+
+.b{
+    
+    margin-left: auto;
+}
+
+.c{
+   margin-right: auto;
+}
+
+.d{
+    background-color: gray;
+    padding: 10px;
+    width: 100%;
+}
+
+.p{
+    width: 100%;
+}
+
+.i{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+button{
+    background-color: #F0F0F0;
+    width: 100%;
+    border: 1px solid #F0F0F0;
+}
