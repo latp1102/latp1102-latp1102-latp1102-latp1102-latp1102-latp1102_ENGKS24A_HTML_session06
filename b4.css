@@ -1,0 +1,23 @@
+.a{
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+}
+
+.b{
+    background-color: #F9F9F9;
+    border:1px solid #D4D4D4;
+    width: 350px;
+    height: 650px;
+    
+}
+
+button{
+    background-color: black;
+    color: #D4D4D4;
+    width: 100%;
+    
+}
+table{
+    width: 100%;
+}
