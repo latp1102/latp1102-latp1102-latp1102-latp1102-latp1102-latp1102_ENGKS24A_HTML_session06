@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.a{
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    border-collapse: collapse;
+}
+
+.logo{
+    text-align: left;
+    padding: 15px;
+    font-weight: bold;
+    width: 50%;
+}
+
+.menu{
+    text-align: right;
+    padding: 15px;
+    width: 50%;
+}
+
+.t{
+    background-color: #4CAF50;
+}
+.b{
+    text-align: center;
+    background-color: #F4F4F4;
+    border: 1px solid #F4F4F4;
+    width: 100%;
+    padding: 50px 0;
+    border-collapse: collapse;
+}
+
+.c{
+    padding: 50px;
+}
+
+.e{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    border-collapse: collapse;
+}
